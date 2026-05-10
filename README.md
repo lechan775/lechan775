@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/lechan775">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+lechan775+%F0%9F%91%8B;Computer+Vision+%26+AI+Infra+Researcher;Full-Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+lechan775+%F0%9F%91%8B;CV+%26+AI+Infra+Researcher;Full-Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </a>
 
 <h3>🎓 CV & AI Infrastructure Researcher | 🛠 Full-Stack Engineer | 🚀 Open Source Builder</h3>
