@@ -65,12 +65,16 @@ Hobby    : Badminton 🏸
 <a href="https://github.com/lechan775/student_management">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lechan775&repo=student_management&theme=tokyonight&hide_border=true" />
 </a>
+<a href="https://github.com/lechan775/BSDPose">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lechan775&repo=BSDPose&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Student Management**](https://github.com/lechan775/student_management) | 四代全栈演进：ArrayList → Docker | Java · Spring Boot · Vue3 · MySQL · Redis |
+| [**BSDPose**](https://github.com/lechan775/BSDPose) | 羽毛球击球姿态检测与识别 | Python · PyTorch · OpenCV |
 | [**StarNet-Pose**](https://github.com/lechan775) | 轻量级人体姿态估计 | Python · PyTorch · ONNX |
 | [**UAV Bank Collapse**](https://github.com/lechan775) | 无人机视觉崩岸识别 | Python · YOLO · CV |
 
