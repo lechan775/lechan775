@@ -63,7 +63,7 @@ Hobby    : Badminton 🏸
 <div align="center">
 
 <a href="https://github.com/lechan775/student_management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lechan775&repo=student_management&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lechan775&repo=student_management&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -81,8 +81,8 @@ Hobby    : Badminton 🏸
 <div align="center">
 
 <a href="https://github.com/lechan775">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lechan775&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechan775&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lechan775&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lechan775&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </a>
 
 <a href="https://github.com/lechan775">
