@@ -10,6 +10,7 @@
   <a href="https://github.com/lechan775"><img src="https://img.shields.io/badge/GitHub-lechan775-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:lechan775@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoft-outlook" /></a>
   <a href="https://github.com/lechan775/student_management"><img src="https://img.shields.io/badge/%F0%9F%94%A5_Featured-Student_Management-667EEA?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/lechan775/ChenDuPlan"><img src="https://img.shields.io/badge/HarmonyOS-ChenDu_Plan-FF6600?style=for-the-badge&logo=harmonyos" /></a>
 </p>
 
 <p>
@@ -32,7 +33,8 @@
 
 - 🎓 **Field**: Computer Vision & AI Infrastructure
 - 🔬 **Research**: UAV Vision, Pose Estimation, Face Recognition, Lightweight Models
-- 🛠 **Stack**: Python · Java · Spring Boot · Vue 3 · Docker · PyTorch
+- 🛠 **Stack**: Python · Java · Spring Boot · HarmonyOS · Vue 3 · Docker · PyTorch
+- 📱 **Mobile**: HarmonyOS ArkTS/ArkUI full-stack development
 - 📝 **Writing**: Academic papers at Neurocomputing, SCI journals
 - 🌱 **Learning**: MCP Protocol, LLM Agents, Distributed Systems
 - 💬 **Ask me about**: CV pipelines, model deployment, open source engineering
@@ -65,8 +67,8 @@ Hobby    : Badminton 🏸
 <a href="https://github.com/lechan775/student_management">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lechan775&repo=student_management&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/lechan775/BSDPose">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lechan775&repo=BSDPose&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/lechan775/ChenDuPlan">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lechan775&repo=ChenDuPlan&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -75,8 +77,8 @@ Hobby    : Badminton 🏸
 |---------|-------------|-------|
 | [**Student Management**](https://github.com/lechan775/student_management) | 四代全栈演进：ArrayList → Docker | Java · Spring Boot · Vue3 · MySQL · Redis |
 | [**BSDPose**](https://github.com/lechan775/BSDPose) | 羽毛球击球姿态检测与识别 | Python · PyTorch · OpenCV |
-| [**StarNet-Pose**](https://github.com/lechan775) | 轻量级人体姿态估计 | Python · PyTorch · ONNX |
-| [**UAV Bank Collapse**](https://github.com/lechan775) | 无人机视觉崩岸识别 | Python · YOLO · CV |
+| [**StarNet-Pose**](https://github.com/lechan775/starnet-pose) | 轻量级人体姿态估计 | Python · PyTorch · ONNX |
+| [**ChenDu Plan**](https://github.com/lechan775/ChenDuPlan) | 鸿蒙全栈背单词 App | HarmonyOS · ArkTS · Spring Boot |
 
 ---
 
@@ -122,6 +124,7 @@ Hobby    : Badminton 🏸
 
 ### 🎨 Frontend
 <p>
+  <img src="https://img.shields.io/badge/HarmonyOS-FF6600?style=for-the-badge&logo=harmonyos&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
