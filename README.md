@@ -192,9 +192,9 @@ Mode    Build, ship, measure.
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lechan775/lechan775/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lechan775/lechan775/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/lechan775/lechan775/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lechan775/lechan775@output/github-contribution-grid-snake-dark.svg?v=20260802" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lechan775/lechan775@output/github-contribution-grid-snake.svg?v=20260802" />
+  <img alt="Contribution Snake" src="https://cdn.jsdelivr.net/gh/lechan775/lechan775@output/github-contribution-grid-snake.svg?v=20260802" />
 </picture>
 
 </div>
